@@ -1,2 +1,2 @@
 # unification-as-demotion
-思想试验
+这是关于思想试验的
